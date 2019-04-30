@@ -1,9 +1,4 @@
 """
-a,b=0,1
-print(b)
-while b<100:
-  a,b=b,a+b
-  print(b)
   
 
 c,d,e,f,g=5.5,4+5j,True,"test",100
